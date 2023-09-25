@@ -7,7 +7,7 @@
     "@emotion/styled": "^11.10.6",
     "@mapbox/mapbox-gl-draw": "^1.4.2",
     "@mapbox/mapbox-gl-geocoder": "^5.0.1",
-    "@reduxjs/toolkit": "^1.9.3",
+    "@reduxjs/toolkit": "^1.9.6",
     "@sentry/react": "^7.46.0",
     "@sentry/tracing": "^7.60.0",
     "@testing-library/jest-dom": "^5.16.5",
